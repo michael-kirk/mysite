@@ -1,0 +1,13 @@
+<?php //test1.php
+  $username = "Fred Smith";
+  echo $username;
+  echo "<br>";
+  $currect_user = $username;
+  echo $currect_user;
+  $count = 3;
+  echo $count;
+  $count ==;
+  echo $count;
+  $count =7;
+  echo $count;
+?>
