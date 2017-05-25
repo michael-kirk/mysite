@@ -1,0 +1,12 @@
+h1 {
+    margin: 1.33%;
+    font-size: 23px;
+    text-transform: capitalize;
+    font-family: Raleway;
+}
+
+img {
+    float: left;
+    width: 30%;
+    margin: 1.33%
+}
